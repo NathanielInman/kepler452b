@@ -46,7 +46,7 @@ Upon setting boots on ground, it's clear that the entire forward operating base 
   - Some skills will require you to press a direction or select an enemy
 
 ### Purchasable Upgrades
-Throughout gameple you acquire money that can be used in-between games to increase the effectiveness of your units you control on runs. All costs below are base cost. Each thing may be upgraded an infinite amount of times with the cost doubling with each purchase. Characters can eventually become invulnerable to damage with enough upgrades.
+Throughout gameplay you acquire money that can be used in-between games to increase the effectiveness of your units you control on each run. All costs below are base cost where each attribute may be upgraded an infinite amount of times with the cost doubling with each purchase. It is expected that characters may eventually become invulnerable to damage with enough upgrades.
 
 - **+1 Damage** - $1000
 - **+1 Defense** - $1000
