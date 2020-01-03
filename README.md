@@ -13,21 +13,10 @@ The terminal manifest has uprooted audio logs of battalion staff officers having
 
 Upon setting boots on ground, it's clear that the entire forward operating base has been compromised. In order to return home you have to retrieve all missing ship access keys from the other four captains. Gain the upper hand by acquiring more intel or methodically destroy any opposition to gain power. Command your team to whatever style suits you. It will take many lives to restore the balance, it'll only take a few to escape.
 
-## Multiple Endings
-
-1. Discover All Intel
-  - You unlock classes by discovering intel
-Win Opportunity 1: Discover all intel
-	Each X amount of intel unlocks a new class
-	Upon getting them all, you discover that the creatures were actually genetically modified humans and the actual purpose of reaching Cygnas was because it’s flush in a few rare earth metals that have long been missing on Earth. Those metals were required to finish manufacturing an abomination of a creature - stemming from a human - who can grow by only consuming abundant gasses and whose sole purpose to exist is to be slaughtered and consumed as meat.
-
-Win Opportunity 2: Find all 4 keys
-	You leave Kepler-452b alive, the whole situation a mystery. As the starship Yuri begins to gate into leap-drive it gets damaged by a strange solar flare from the dying K452. The starship immediately loses all power and locks all passengers inside their cold-sleep chambers. The passengers all suffocate peacefully in their cold-sleep chambers as Yuri slowly drifts meaningless among the stars.
-
 ## Basics
 
-1. Find all 4 keys for ending #1
-2. Discover all intel for ending #2
+1. There are two ways to beat the game, find all 4 keys for game ending #1
+2. Discover all intel for game ending #2
   - Some intel will unlock new classes
 3. Use 's' key to navigate more easily when no enemies are around
 4. Acquire money and upgrade units between runs
