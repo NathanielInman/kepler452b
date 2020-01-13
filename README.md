@@ -4,7 +4,7 @@ K452b is a free roguelike rpg available on Windows, Linux & Mac.
 Download [here.](https://github.com/NathanielInman/kepler452b/releases/tag/v0.1.0)
 
 Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/kepler452b/issues)
-![Basic Gameplay Screenshot](screenshot.png)
+![Basic Gameplay Screenshot](animation1.gif)
 
 ## Story
 You are on the Cygnas System exploration regiment, sent 1400 light-years away from Earth to explore and take samples from the planet Kepler-452b, a super earth exoplanet in the habitable zone of a G2 star discovered 827 years ago today on August 23rd, 2015. You are one of 5 captains, your battalion having been the last to wake from cold sleep. The E-Class Starship Yuri has been orbiting K452b for almost 10 years now and communications with First Battalion at the forward operating base have been unanswered for the last two weeks.
