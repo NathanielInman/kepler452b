@@ -6,6 +6,22 @@ Download [here.](https://github.com/NathanielInman/kepler452b/releases/tag/v0.1.
 Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/kepler452b/issues)
 ![Basic Gameplay Screenshot](animation1.gif)
 
+## Table of Contents
+- [Story](#story)
+- [Basics](#basics)
+  * [Movement](#movement)
+  * [Purchasable Upgrades](#purchasable-upgrades)
+  * [Classes & Abilities](#classes-&-abilities)
+    * [Mercenary](#mercenary)
+    * [Captain](#captain)
+    * [Agent](#agent)
+    * [Doctor](#doctor)
+    * [Cannoneer](#cannoneer)
+    * [Pyrotechnic](#pyrotechnic)
+    * [Assassin](#assassin)
+    * [Scientist](#scientist)
+  * [Items](#items)
+
 ## Story
 You are on the Cygnas System exploration regiment, sent 1400 light-years away from Earth to explore and take samples from the planet Kepler-452b, a super earth exoplanet in the habitable zone of a G2 star discovered 827 years ago today on August 23rd, 2015. You are one of 5 captains, your battalion having been the last to wake from cold sleep. The E-Class Starship Yuri has been orbiting K452b for almost 10 years now and communications with First Battalion at the forward operating base have been unanswered for the last two weeks.
 
@@ -44,6 +60,7 @@ Upon setting boots on ground, it's clear that the entire forward operating base 
   - Some skills will require you to press a direction or select an enemy
 - **Tertiary Skill**: 3
   - Some skills will require you to press a direction or select an enemy
+- **Help Screen**: ?
 
 ### Purchasable Upgrades
 Throughout gameplay you acquire money that can be used in-between games to increase the effectiveness of your units you control on each run. All costs below are base cost where each attribute may be upgraded an infinite amount of times with the cost doubling with each purchase. It is expected that characters may eventually become invulnerable to damage with enough upgrades.
