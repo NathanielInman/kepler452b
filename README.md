@@ -87,7 +87,7 @@ All characters start with 100 health and 100 energy.
   - For 20 rounds greatly increase field of view and subsequent shooting distance
   - Costs 25EN
 3. **Hyper Rifle**
-  - Basic ranged attack deals 2d12 damage
+  - Basic ranged attack deals 2d12 splash damage to an area
   - Costs 15EN
 
 #### Captain
@@ -99,7 +99,7 @@ All characters start with 100 health and 100 energy.
   - Jump up to 4 tiles, has a cooldown of 4 rounds between uses
   - Costs 10EN
 3. **Lay Mine**
-  - Lay a mine on the ground that deals 2d20 damage when walked upon by enemies or player
+  - Lay a mine on the ground that deals 2d20 splash damage to a large area when walked upon by enemies or player
   - Costs 40EN
 
 #### Agent
@@ -135,7 +135,7 @@ All characters start with 100 health and 100 energy.
   - Increase EN by 30, has a cooldown of 5 rounds between uses
   - No Cost
 3. **Disintegrate Cannon**
-  - Basic ranged attack deals 5d8 damage
+  - Basic ranged attack deals 5d8 splash damage to a medium-sized area
   - Costs 50EN
 
 #### Pyrotechnic
