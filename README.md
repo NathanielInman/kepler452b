@@ -21,6 +21,7 @@ Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/k
     * [Assassin](#assassin)
     * [Scientist](#scientist)
   * [Items](#items)
+  * [Quests](#quests)
 
 ## Story
 You are on the Cygnas System exploration regiment, sent 1400 light-years away from Earth to explore and take samples from the planet Kepler-452b, a super earth exoplanet in the habitable zone of a G2 star discovered 827 years ago today on August 23rd, 2015. You are one of 5 captains, your battalion having been the last to wake from cold sleep. The E-Class Starship Yuri has been orbiting K452b for almost 10 years now and communications with First Battalion at the forward operating base have been unanswered for the last two weeks.
@@ -347,3 +348,40 @@ All characters start with 100 health and 100 energy.
   - Remove primary skill cost for laser
 - Improved Molotov Cocktail (UNIQUE-ONLY-ONE) (PYROTECHNIC-ONLY)
   - Remove primary skill cost for molotov cocktail
+
+### Quests
+There are 3 main quests, each with its own unique ending:
+
+1. Gather all captains keys
+2. Gather all intel
+3. Clear all areas
+
+There are also a variety of side quests available within the game:
+
+- Break some barrels
+- Break some boxes
+- Open some crates
+- Break some eggs
+- Turn some servers on
+- Turn some servers off
+- Search some cabinets
+- Sleep in a bed
+- Kill some AMP Antecedent
+- Loot some coins
+- Find the gray/green/blue/red intel disk
+- Find the green/red/yellow/purple access card
+- Find the gask mask
+- Find the hyper radio
+- Find the shovel
+- Find the hyper magnet
+- Find the bag of rare materials
+- Find the remains of the lost scout
+- Find the energy sword
+- Find the utlra energy sword
+- Find the frag grenade
+- Find the gas canister
+- Find the riot shield
+- Find the handheld medical unit
+- Find the coil of optic fiber
+- Find the fusion sphere
+- Find the void lord/overlord/ether lord egg
