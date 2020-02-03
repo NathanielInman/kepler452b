@@ -22,6 +22,7 @@ Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/k
     * [Scientist](#scientist)
   * [Items](#items)
   * [Quests](#quests)
+  * [Traps](#traps)
 
 ## Story
 You are on the Cygnas System exploration regiment, sent 1400 light-years away from Earth to explore and take samples from the planet Kepler-452b, a super earth exoplanet in the habitable zone of a G2 star discovered 827 years ago today on August 23rd, 2015. You are one of 5 captains, your battalion having been the last to wake from cold sleep. The E-Class Starship Yuri has been orbiting K452b for almost 10 years now and communications with First Battalion at the forward operating base have been unanswered for the last two weeks.
@@ -385,3 +386,18 @@ There are also a variety of side quests available within the game:
 - Find the coil of optic fiber
 - Find the fusion sphere
 - Find the void lord/overlord/ether lord egg
+- Trigger a trap
+
+### Traps
+Each type of trap has two possible qualities:
+
+1. Basic traps have a 3x3 radius and deal 3d20 damage
+2. Advanced traps have a 9x9 radius and deal 2d20 damage
+
+- fire explosion trap
+- ice explosion trap
+- energy explosion trap
+- ether explosion trap
+- laser attack trap
+- laser explosion trap
+- poison trap
