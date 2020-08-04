@@ -1,10 +1,11 @@
 # Kepler 452b
 K452b is a free roguelike rpg available on Windows, Linux & Mac.
 
-Download [here.](https://github.com/NathanielInman/kepler452b/releases/tag/v0.1.4)
+Download [here.](https://github.com/NathanielInman/kepler452b/releases/tag/v1.0.0)
 
 Suggestions, Bugs & Feedback Welcome [here.](https://github.com/NathanielInman/kepler452b/issues)
-![Basic Gameplay Screenshot](v0.1.4.gif)
+
+![Basic Gameplay Screenshot](v1.0.0.gif)
 
 ## Table of Contents
 - [Story](#story)
