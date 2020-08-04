@@ -33,7 +33,7 @@ Upon setting boots on ground, it's clear that the entire forward operating base 
 
 ## Basics
 
-1. There are two ways to beat the game, find all 4 keys for game ending #1
+1. There are four ways to beat the game, find all 4 keys for game ending #1
 2. Discover all intel for game ending #2
   - Some intel will unlock new classes
 3. Use 's' key to navigate more easily when no enemies are around
