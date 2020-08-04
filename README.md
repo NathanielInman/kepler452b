@@ -39,6 +39,9 @@ Upon setting boots on ground, it's clear that the entire forward operating base 
 3. Use 's' key to navigate more easily when no enemies are around
 4. Acquire money and upgrade units between runs
   - Increasing item quality and amount will greatly ease runs
+5. Sneaking past Planck Research without finding the 4 keys will unlock game ending #3
+  - Haldane Terminus unlocks after finding all 4 keys
+6. Conquering The Ruined Beyond unlocks the final game ending #4
 
 ### Movement
 
